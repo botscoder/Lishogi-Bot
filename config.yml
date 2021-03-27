@@ -1,5 +1,5 @@
-token: "UzFB3IQGfggJLoLR"    # lishogi OAuth2 Token with 'play as bot' enabled
-url: "https://lishogi.org/"  # lishogi base URL
+token: "zdFbExMAYk4sPYrf"    # lishogi OAuth2 Token with 'play as bot' enabled
+url: "https://live.chess-online.com/"  # lishogi base URL
 
 engine:                      # engine settings
   dir: "./engines/"          # dir containing engines, relative to this project
