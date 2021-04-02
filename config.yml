@@ -1,4 +1,4 @@
-token: "Elm0S3Y82yGoVziU"    # lishogi OAuth2 Token with 'play as bot' enabled
+token: "1uTmA82IqiV9gaZZ"    # lishogi OAuth2 Token with 'play as bot' enabled
 url: "https://lidraughts.org//"  # lishogi base URL
 
 engine:                      # engine settings
