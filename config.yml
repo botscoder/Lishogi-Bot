@@ -1,4 +1,5 @@
-token: "ZoAETPVLDfIVGskb"    # lishogi OAuth2 Token with 'play as bot' enabled
+token: "kAsTh4FyObcKRfhU
+"    # lishogi OAuth2 Token with 'play as bot' enabled
 url: "https://lishogi.org/"  # lishogi base URL
 
 engine:                      # engine settings
